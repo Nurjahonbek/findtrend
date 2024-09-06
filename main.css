@@ -249,7 +249,7 @@ body{
     font-size: 60px;
     line-height: 76px;
     margin-bottom: 280px;   
-    text-align: center;
+    /* text-align: center; */
 }
 .main-text> span{
     color: #ADADAD;
